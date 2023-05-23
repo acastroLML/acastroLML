@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [DataScience Repositories](/DataScienceRepositories)       
 [MLOps Repositories](https://link-url-here.org)     
-[Angular Repositories](https://link-url-here.org)   
+[Frontend Repositories](https://link-url-here.org)   
 [Backend Repositories](https://link-url-here.org)   
 [Data Engineer Repositories](https://link-url-here.org)    
