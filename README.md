@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[DataScience Repositories](/DataScienceRepositories)       
+[DataScience Repositories](https://github.com/orgs/DataScienceRepositories/repositories/)       
 [MLOps Repositories](https://link-url-here.org)     
 [Frontend Repositories](https://link-url-here.org)   
 [Backend Repositories](https://link-url-here.org)   
