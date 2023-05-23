@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[DataScience Repositories](https://link-url-here.org)
+[MLOps Repositories](https://link-url-here.org)
+[Angular Repositories](https://link-url-here.org)
+[Backend Repositories](https://link-url-here.org)
+[Data Engineer Repositories](https://link-url-here.org)
