@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 [DataScience Repositories](https://github.com/orgs/DataScienceRepositories/repositories/)       
-[MLOps Repositories](https://link-url-here.org)     
+[MLOps Repositories](https://github.com/orgs/MachineLearningRepositories-Angel/repositories/)     
 [Frontend Repositories](https://link-url-here.org)   
 [Backend Repositories](https://link-url-here.org)   
 [Data Engineer Repositories](https://link-url-here.org)    
