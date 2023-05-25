@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [MLOps Repositories](https://github.com/orgs/MachineLearningRepositories-Angel/repositories/)  
 [Data Engineer Repositories](https://github.com/orgs/DataEngineerRepos-GoF/repositories)  
 [Java Repositories](https://github.com/orgs/Java-GoF/repositories)  
+[Frontend Repositories](https://github.com/orgs/WebDevelopment-GoF/repositories)  
 
-[Frontend Repositories](https://link-url-here.org)   
 [Backend Repositories](https://link-url-here.org)   
 [kubernetes Repositories](https://link-url-here.org)   
 
