@@ -29,4 +29,8 @@ Here are some ideas to get you started:
 
 [Backend Repositories](https://link-url-here.org)   
 [kubernetes Repositories](https://link-url-here.org)   
+[Cloud Computing Repositories](https://link-url-here.org)  
+[Golang](https://link-url-here.org)  
+[Cypher - Graph Databases](https://link-url-here.org)  
+
 
