@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 [Frontend Repositories](https://link-url-here.org)   
 [Backend Repositories](https://link-url-here.org)   
 [Data Engineer Repositories](https://link-url-here.org)    
+[kubernetes Repositories](https://link-url-here.org)   
