@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 [Backend Repositories](https://link-url-here.org)   
 [Data Engineer Repositories](https://link-url-here.org)    
 [kubernetes Repositories](https://link-url-here.org)   
-[Java Repositories](https://link-url-here.org)   
+[Java Repositories](https://github.com/orgs/Java-GoF/repositories)   
