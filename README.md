@@ -6,6 +6,7 @@ Design and development of RestFull and GraphQL API's under SaaS model. Experienc
 
 Experience with data manipulation on SQL and NoSQL engines: Postgres, SqlServer, MongoDB, Dynamo Db, AWS RDS (Postgres, Mysql, Aurora), Redshift, Graph Databases (Neo4j, Apache TinkerPop). I have worked on Deep learning, convolutional neural networks CNN, RNN, OCR, web scraping, machine learning, supervised and unsupervised algorithms, clustering, knn, EM, NLP, random forest, decision trees, XGboots, complex networks, patterns identification, and Recommender Systems.
 
+Categorized portfolio:   
 <!--
 **acastroLML/acastroLML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
