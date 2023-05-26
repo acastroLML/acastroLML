@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 [Java Repositories](https://github.com/orgs/Java-GoF/repositories)  
 [Frontend Repositories](https://github.com/orgs/WebDevelopment-GoF/repositories)  
 [Backend Repositories](https://github.com/orgs/Backend-repos-GoF/repositories)   
+[kubernetes Repositories](https://github.com/orgs/Kubernetes-repos-GoF/repositories)   
 
-[kubernetes Repositories](https://link-url-here.org)   
 [Cloud Computing Repositories](https://link-url-here.org)  
 [Golang](https://link-url-here.org)  
 [Cypher - Graph Databases](https://link-url-here.org)  
